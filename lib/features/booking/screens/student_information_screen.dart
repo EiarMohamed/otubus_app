@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'booking_progress_bar.dart';
 import 'checkout_screen.dart';
-
+// Developed by: [Eiar Mohamed]
 class StudentInformationScreen extends StatefulWidget {
   // --- 1. استقبال الداتا من الصفحة السابقة ---
   final double price;

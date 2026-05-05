@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'seat_selection_screen.dart';
-
+// Developed by: [Eiar Mohamed]
 class SearchResultsScreen extends StatefulWidget {
   const SearchResultsScreen({super.key});
 

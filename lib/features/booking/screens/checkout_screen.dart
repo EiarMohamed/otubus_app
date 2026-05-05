@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'booking_progress_bar.dart';
 import 'booking_confirmation_screen.dart';
-
+// Developed by: [Eiar Mohamed]
 class CheckoutScreen extends StatefulWidget {
   final double price;
   final String busName;

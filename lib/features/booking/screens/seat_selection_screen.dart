@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'select_travel_days_screen.dart'; // دي الصفحة اللي هتروحلها
 import 'booking_progress_bar.dart';
-
+// Developed by: [Eiar Mohamed]
 class SelectSeatScreen extends StatefulWidget {
   final double baseTicketPrice;
 

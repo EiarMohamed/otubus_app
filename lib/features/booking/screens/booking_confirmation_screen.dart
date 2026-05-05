@@ -3,7 +3,7 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:intl/intl.dart';
 import 'digital_ticket_screen.dart'; // تأكد إن ده مسار الملف الصح عندك
 import '../../../main_screen.dart';
-
+// Developed by: [Eiar Mohamed]
 class BookingConfirmationScreen extends StatelessWidget {
   final double price;
   final String busName;
@@ -325,4 +325,4 @@ class BookingConfirmationScreen extends StatelessWidget {
       ],
     );
   }
-}
+}

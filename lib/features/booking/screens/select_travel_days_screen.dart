@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'select_boarding_area_screen.dart';
 import 'booking_progress_bar.dart'; // استدعاء شريط التقدم
-
+// Developed by: [Eiar Mohamed]
 class SelectTravelDaysScreen extends StatefulWidget {
   // --- 1. ضفنا المتغيرات دي عشان نستقبل السعر والبيانات من صفحة الكراسي ---
   final double price;

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'student_information_screen.dart';
 import 'booking_progress_bar.dart'; // استدعاء الـ Progress Bar
-
+// Developed by: [Eiar Mohamed]
 class SelectBoardingAreaScreen extends StatefulWidget {
   // --- 1. استقبال الداتا من صفحة الأيام ---
   final double price;
